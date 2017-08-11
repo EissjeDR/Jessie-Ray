@@ -1,0 +1,40 @@
+!DOCTYPE 
+<html>
+<body>
+	<body background="1.jpg">
+	<h1><marquee><font size="100"><font color="SteelBlue"><strong><center>Jessie's Resume</strong></center></h1>
+ 	<hr align="center" size="10" width="100%">
+	<center><img src="2.jpg" border="4" align="center" width="250" height="250"><img src="3.jpg" border="4" align="center" width="250" height="250"><img src="4.jpg" border="4" align="center" width="250" height="250"><img src="5.jpg" border="4" align="center" width="250" height="250"><img src="6.jpg" border="4" align="center" width="250" height="250"><img src="7.jpg" border="4" align="center" width="250" height="250"></center>
+	<center><p><font size="+15"><font color="dodgerblue"><font face="Broadway"><i><u>My Resume</i></u></font></font></font></p></marquee></center>
+</br>
+
+<div style="BORDER: 10px slategray dotted">
+<p>
+<center><font size="+15"><font color="mediumpurple"><font face="Showcard Gothic">Personal Information</font></font></font></center>
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">Name:Jessie-Ray Dionzon</font></font></font></center>
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">Address:Mintex Awang D.O.S Maguindanao</font></font></font></center>
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">Birthdate: April 27, 1999</font></font></font></center>
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">Age: 18 years old</font></font></font></center>
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">Gender:Female</font></font></font></center>
+</p>
+</div>
+</br>
+
+<div style="BORDER: 10px slategray dotted">
+<p>
+<center><font size="+15"><font color="mediumpurple"><font face="Showcard Gothic">Educational Background</font></font></font></center>
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">Elementary: Sero Central School</font></font></font></center>
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">Junior High: Notre Dame of Cotabato Inc. (NDC)</font></font></font></center>
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">Senior High: Notre Dame-RVM College of Cotabato(NDRVMCC)</font></font></font></center>
+</p>
+</div>
+</br>
+
+<div style="BORDER: 10px slategray dotted">
+<p>
+<center><font size="+15"><font color="mediumpurple"><font face="Showcard Gothic">Goals in Life</font></font></font></center>
+
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">To travel around the world.</font></font></font></center>
+<center><font size="5"><font color="Salmon"><font face="Lucida Handwriting">To be a teacher someday.</font></font></font></center>
+</p>
+</div>
